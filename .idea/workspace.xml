@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dd8bf5cc-c41b-4286-b20f-86a415c584ac" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="autoscrollToSource" value="true" />
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1j8lnEqdqEpqgzSzYYHG0wk2J36" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+  </component>
+  <component name="RunManager" selected="JUnit.EksamenTest">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="no.oslomet.cs.algdat.Eksamen.Main" />
+      <module name="Eksamen.zip_67077106_1603099748026" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="no.oslomet.cs.algdat.Eksamen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EksamenTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Eksamen.zip_67077106_1603099748026" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="no.oslomet.cs.algdat.Eksamen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="no.oslomet.cs.algdat.Eksamen" />
+      <option name="MAIN_CLASS_NAME" value="no.oslomet.cs.algdat.Eksamen.EksamenTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.EksamenTest" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd8bf5cc-c41b-4286-b20f-86a415c584ac" name="Default Changelist" comment="" />
+      <created>1603193764120</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603193764120</updated>
+      <workItem from="1603195198687" duration="51669000" />
+      <workItem from="1603632576839" duration="377000" />
+      <workItem from="1603705230756" duration="3068000" />
+      <workItem from="1603708408099" duration="3394000" />
+      <workItem from="1603711962089" duration="54943000" />
+      <workItem from="1603898696567" duration="453000" />
+      <workItem from="1604054686238" duration="66000" />
+      <workItem from="1610100397304" duration="49000" />
+      <workItem from="1610100552157" duration="111000" />
+    </task>
+    <task id="LOCAL−00001" summary="Created initial version">
+      <created>1603195477806</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1603195477806</updated>
+    </task>
+    <task id="LOCAL−00002" summary="Test test">
+      <created>1603195609340</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1603195609340</updated>
+    </task>
+    <task id="LOCAL−00003" summary="Test test">
+      <created>1603196113027</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1603196113027</updated>
+    </task>
+    <task id="LOCAL−00004" summary="Test2">
+      <created>1603196529500</created>
+      <option name="number" value="LOCAL−00004" />
+      <option name="presentableId" value="LOCAL−00004" />
+      <updated>1603196529500</updated>
+    </task>
+    <task id="LOCAL−00005" summary="Test2">
+      <created>1603196548170</created>
+      <option name="number" value="LOCAL−00005" />
+      <option name="presentableId" value="LOCAL−00005" />
+      <updated>1603196548170</updated>
+    </task>
+    <task id="LOCAL−00006" summary="Startet på oppgave1 - leggInn-metoden">
+      <created>1603273295467</created>
+      <option name="number" value="LOCAL−00006" />
+      <option name="presentableId" value="LOCAL−00006" />
+      <updated>1603273295467</updated>
+    </task>
+    <task id="LOCAL−00007" summary="Jobbet med oppgave 2">
+      <created>1603356556595</created>
+      <option name="number" value="LOCAL−00007" />
+      <option name="presentableId" value="LOCAL−00007" />
+      <updated>1603356556595</updated>
+    </task>
+    <task id="LOCAL−00008" summary="Fikset på oppgave 1 - gjorde noen små justeringer på else og elseif">
+      <created>1603359756667</created>
+      <option name="number" value="LOCAL−00008" />
+      <option name="presentableId" value="LOCAL−00008" />
+      <updated>1603359756667</updated>
+    </task>
+    <task id="LOCAL−00009" summary="Oppgave 2 ferdig og bestått. EksamensTEst og mine egne tester er riktige">
+      <created>1603360291941</created>
+      <option name="number" value="LOCAL−00009" />
+      <option name="presentableId" value="LOCAL−00009" />
+      <updated>1603360291941</updated>
+    </task>
+    <task id="LOCAL−00010" summary="Oppdatert readme med forklaring på oppgave 1 og 2">
+      <created>1603361130323</created>
+      <option name="number" value="LOCAL−00010" />
+      <option name="presentableId" value="LOCAL−00010" />
+      <updated>1603361130323</updated>
+    </task>
+    <task id="LOCAL−00011" summary="Prøver å løse oppgave 3, men skriver til nå ut feil rekkefølge på treet">
+      <created>1603445107855</created>
+      <option name="number" value="LOCAL−00011" />
+      <option name="presentableId" value="LOCAL−00011" />
+      <updated>1603445107855</updated>
+    </task>
+    <task id="LOCAL−00012" summary="Prøver å løse oppgave 3, men ikke på en rekursiv måte">
+      <created>1603459155343</created>
+      <option name="number" value="LOCAL−00012" />
+      <option name="presentableId" value="LOCAL−00012" />
+      <updated>1603459155344</updated>
+    </task>
+    <task id="LOCAL−00013" summary="Gikk tilbake til den rekursive måten igjen">
+      <created>1603460576464</created>
+      <option name="number" value="LOCAL−00013" />
+      <option name="presentableId" value="LOCAL−00013" />
+      <updated>1603460576465</updated>
+    </task>
+    <task id="LOCAL−00014" summary="Prøvde å løse oppgave 3 nestePostOrden med kode fra kompendiet, det gikk fremdeles ikke for å bestå testene">
+      <created>1603461152423</created>
+      <option name="number" value="LOCAL−00014" />
+      <option name="presentableId" value="LOCAL−00014" />
+      <updated>1603461152423</updated>
+    </task>
+    <task id="LOCAL−00015" summary="Laget tekst-mal på hvordan nestePostorden skal løses">
+      <created>1603464076898</created>
+      <option name="number" value="LOCAL−00015" />
+      <option name="presentableId" value="LOCAL−00015" />
+      <updated>1603464076898</updated>
+    </task>
+    <task id="LOCAL−00016" summary="Prøvd å implementere koden i funksjonen nestePostOrden etter tekstbeskrivelsen basert på kompendiet 5.1.7 og 5.1.15">
+      <created>1603705652677</created>
+      <option name="number" value="LOCAL−00016" />
+      <option name="presentableId" value="LOCAL−00016" />
+      <updated>1603705652677</updated>
+    </task>
+    <task id="LOCAL−00017" summary="Er er av testene i Eksamenstest som feiler. Prøvde å endre fra if til else if, men fremdeles feil.">
+      <created>1603705868465</created>
+      <option name="number" value="LOCAL−00017" />
+      <option name="presentableId" value="LOCAL−00017" />
+      <updated>1603705868465</updated>
+    </task>
+    <task id="LOCAL−00018" summary="Nå er nestePostOrden-testen også grønn! &#10;- Misforstod teksten litt og trodde jeg måtte ha to if-er, men jeg skulle bare sjekke at p.foreldrer.høyre var lik null --&gt; da skulle p sin forelder returneres.&#10;- Også så jeg at man skulle kalle på postorden-funksjonen inne i else --&gt; hvis p sin høyre ikke var null --&gt; der den neste som kom først i postorden i subtreet med foreldre sitt høyrebarn som rot.">
+      <created>1603706591752</created>
+      <option name="number" value="LOCAL−00018" />
+      <option name="presentableId" value="LOCAL−00018" />
+      <updated>1603706591752</updated>
+    </task>
+    <task id="LOCAL−00019" summary="Prøvd å implementere den iterative funksjonen postorden vha kode fra kompendiet 5.1.7, 5.1.15 og 5.1.10. Men får NullPointerException, og har ikke brukt funksjonen nestePostorden fra forrige oppgave riktig. Skal nå prøve å se kun på hva oppgaven sier og ta utgangspunkt i dette">
+      <created>1603710392497</created>
+      <option name="number" value="LOCAL−00019" />
+      <option name="presentableId" value="LOCAL−00019" />
+      <updated>1603710392497</updated>
+    </task>
+    <task id="LOCAL−00020" summary="Endret den iterative funksjonen postorden slik at den først finner roten p i førstePostorden. Deretter skulle jeg bruke en while-løkke (for å kunne ende i et basistilfelle, slik man ikke lopper i evigheten). Så lenge p finnes så skal dermed den settes som lik p i funksjonen nestePostorden.&#10;&#10;Får fremdeles ikke alle testene helt grønne.">
+      <created>1603711236844</created>
+      <option name="number" value="LOCAL−00020" />
+      <option name="presentableId" value="LOCAL−00020" />
+      <updated>1603711236844</updated>
+    </task>
+    <task id="LOCAL−00021" summary="Flyttet utførOppgave ned inn i while-løkken. Problemet var at den var før while-løkken - derfor skrev den ut neste - neste - neste, osv. i stedet for å kun skrive ut p til slutt når den havnet i basistilfellet.">
+      <created>1603711544010</created>
+      <option name="number" value="LOCAL−00021" />
+      <option name="presentableId" value="LOCAL−00021" />
+      <updated>1603711544010</updated>
+    </task>
+    <task id="LOCAL−00022" summary="Flyttet utførOppgave ned inn i while-løkken. Problemet var at den var før while-løkken - derfor skrev den ut neste - neste - neste, osv. i stedet for å kun skrive ut p til slutt når den havnet i basistilfellet.">
+      <created>1603711609863</created>
+      <option name="number" value="LOCAL−00022" />
+      <option name="presentableId" value="LOCAL−00022" />
+      <updated>1603711609863</updated>
+    </task>
+    <task id="LOCAL−00023" summary="Prøvde å teste nullstill- og fjern-metodene (som er tatt utgangspunkt i fra kompendiet 5.2.8 d)">
+      <created>1603712279236</created>
+      <option name="number" value="LOCAL−00023" />
+      <option name="presentableId" value="LOCAL−00023" />
+      <updated>1603712279236</updated>
+    </task>
+    <task id="LOCAL−00024" summary="Prøvde å gjøre noen fjernAlle-metoder likt som i kompendiet, men det funket ikke (kjøringen stopper ikke). Legger bort dette i denne omgang og ser heller på oppgave 5.">
+      <created>1603713649555</created>
+      <option name="number" value="LOCAL−00024" />
+      <option name="presentableId" value="LOCAL−00024" />
+      <updated>1603713649555</updated>
+    </task>
+    <task id="LOCAL−00025" summary="Satt opp oppgave 5 - tekstbeskrivelse">
+      <created>1603714041005</created>
+      <option name="number" value="LOCAL−00025" />
+      <option name="presentableId" value="LOCAL−00025" />
+      <updated>1603714041006</updated>
+    </task>
+    <task id="LOCAL−00026" summary="Oppdatert READ-me-filen med beskrivelse av hvordan jeg har løst de siste oppgavene hittil løst">
+      <created>1603722841904</created>
+      <option name="number" value="LOCAL−00026" />
+      <option name="presentableId" value="LOCAL−00026" />
+      <updated>1603722841904</updated>
+    </task>
+    <task id="LOCAL−00027" summary="Satt inn oppgavebeskrivelse på oppgave 5 - der jeg skal gjøre et binært tre om til et array, også bruke et array til å lage et binært tre - begge i nivåorden. Må se mer på kompendiet 5.1.6: traverseringer og 4.2/ 4.3: køer og deque">
+      <created>1603723876305</created>
+      <option name="number" value="LOCAL−00027" />
+      <option name="presentableId" value="LOCAL−00027" />
+      <updated>1603723876305</updated>
+    </task>
+    <task id="LOCAL−00028" summary="Prøvde å ta utgangspunkt i nullstill-metoden fra oblig2, men kom på at metoden skulle traversere rekursivt eller iterativt. Måtte derfor tenke at vi skulle starte nederst (nederste nivå) i treet og nulle det ut oppover. Slik at vi har gått igjennom absolutt alle nodene og nullet det ut. Dette må da gjøres postorden - siden den første noden i postorden er noden på dypeste nivå. &#10;&#10;Men når jeg prøvde å kjøre EksamensTesten nå, kjører oppgave 6 i evig (måtte stoppe den). Så noe er feil med metoden min.">
+      <created>1603727336283</created>
+      <option name="number" value="LOCAL−00028" />
+      <option name="presentableId" value="LOCAL−00028" />
+      <updated>1603727336283</updated>
+    </task>
+    <task id="LOCAL−00029" summary="Prøvde å lage nullstill-metoden slik som 5.1.7 (8) fra kompendiet, bare at jeg prøvde å implementere alt i den ene nullstill-metoden, i stedet for to ulike nullstill-metoder (der den ene tok inn p). Får fremdeles OutOfMemoryError på Eksamenstest 6">
+      <created>1603784733008</created>
+      <option name="number" value="LOCAL−00029" />
+      <option name="presentableId" value="LOCAL−00029" />
+      <updated>1603784733008</updated>
+    </task>
+    <task id="LOCAL−00030" summary="Kodet oppgave 5: laget en liste kalt kø (sett på kompendiet 5.1.6 d) for å traversere treet i nivå orden. I deserialize-metoden laget jeg et tomt tre for så å sette inn (med leggInn-metoden) en og en verdi i treet i nivå orden. Testen får gul, så ikke alle testene er bestått. Må fikse på dette. Og nullstill-metoden er fremdeles feil.">
+      <created>1603793505109</created>
+      <option name="number" value="LOCAL−00030" />
+      <option name="presentableId" value="LOCAL−00030" />
+      <updated>1603793505109</updated>
+    </task>
+    <task id="LOCAL−00031" summary="Opdatert README-filen på oppgave 5 (1, 2, 3, 4, 5  skal nå være OK). Men fremdeles feilmelding på oppgave 6. Testen er nå helt rød..">
+      <created>1603798038859</created>
+      <option name="number" value="LOCAL−00031" />
+      <option name="presentableId" value="LOCAL−00031" />
+      <updated>1603798038859</updated>
+    </task>
+    <task id="LOCAL−00032" summary="Får fremdeles feil på oppgave 6, men finner ikke ut av feilen">
+      <created>1603801989124</created>
+      <option name="number" value="LOCAL−00032" />
+      <option name="presentableId" value="LOCAL−00032" />
+      <updated>1603801989124</updated>
+    </task>
+    <task id="LOCAL−00033" summary="Satte q-referansen (på tilfelle 1 og 2) til å være forelderen til b (som er barnet). Men testen er fremdeles rød. Det må være noe feil i nullstill- eller fjernAlle-metoden eller begge">
+      <created>1603802308623</created>
+      <option name="number" value="LOCAL−00033" />
+      <option name="presentableId" value="LOCAL−00033" />
+      <updated>1603802308623</updated>
+    </task>
+    <task id="LOCAL−00034" summary="Prøvde å endre på nullstill-metoden for å ikke få rød kjøring på oppgave 6. Nå får jeg gul kjøring der to av testene feiler. Jeg flyttet det rekursive kallet til nullstill-metoden inn i if-ene og endret pekerene litt, men fremdeles noe som ikke er riktig. Usikker på om det kan ligge i nullstill-metoden eller om det er en følgefeil fra en av fjern-metodene">
+      <created>1603872051655</created>
+      <option name="number" value="LOCAL−00034" />
+      <option name="presentableId" value="LOCAL−00034" />
+      <updated>1603872051655</updated>
+    </task>
+    <task id="LOCAL−00035" summary="Gjorde om nullstill-metoden til slik jeg hadde prøvd først (fra kompendiet 5.1.7 oppgave 8) - der jeg lagde to nullstill-metoder; en public som kaller på den private og nuller ut rot og setter antall til 0, og en privat metode som nuller ut pekere og verdier. Da forsvant feilen 6v, men har fremdeles en feil på testen igjen. Må være feil på fjern-metoden tror jeg.">
+      <created>1603875809278</created>
+      <option name="number" value="LOCAL−00035" />
+      <option name="presentableId" value="LOCAL−00035" />
+      <updated>1603875809278</updated>
+    </task>
+    <task id="LOCAL−00036" summary="Gikk igjennom fjern-metoden steg for steg og fant ut at det eneste jeg manglet for å få riktig på testen var å sette riktig peker på b sin forelder hvis denne finnes. Nå skal oppgave6 sin test også være grønn.">
+      <created>1603884334525</created>
+      <option name="number" value="LOCAL−00036" />
+      <option name="presentableId" value="LOCAL−00036" />
+      <updated>1603884334525</updated>
+    </task>
+    <task id="LOCAL−00037" summary="Endret oppgavebeskrivelser i README-filen.">
+      <created>1603885614236</created>
+      <option name="number" value="LOCAL−00037" />
+      <option name="presentableId" value="LOCAL−00037" />
+      <updated>1603885614236</updated>
+    </task>
+    <task id="LOCAL−00038" summary="Stod jeg manglet 1 commit i terminal da jeg skulle sjekke bundle, så jeg commiter det jeg selv har testet i en main-metode jeg har opprettet. Kun for egen testing. Får to warnings på main, men kan se bort i fra disse da main kun er for å opprette egne tester på metodene">
+      <created>1603886792324</created>
+      <option name="number" value="LOCAL−00038" />
+      <option name="presentableId" value="LOCAL−00038" />
+      <updated>1603886792324</updated>
+    </task>
+    <task id="LOCAL−00039" summary="Opppdaterte README-filen da jeg leste på discussion på canvas at oppgavebeskrivelse av metodene vi har kunnet kopiere fra kompendiet (leggInn og fjern) måtte også utfylles. La oss ved noen merknader jeg har jobbet ut i fra.">
+      <created>1603890827427</created>
+      <option name="number" value="LOCAL−00039" />
+      <option name="presentableId" value="LOCAL−00039" />
+      <updated>1603890827427</updated>
+    </task>
+    <task id="LOCAL−00040" summary="Sjekket antall commits gjort: 39 commits">
+      <created>1603890921998</created>
+      <option name="number" value="LOCAL−00040" />
+      <option name="presentableId" value="LOCAL−00040" />
+      <updated>1603890921998</updated>
+    </task>
+    <task id="LOCAL−00041" summary="Siste commit før innlevering!">
+      <created>1603892487081</created>
+      <option name="number" value="LOCAL−00041" />
+      <option name="presentableId" value="LOCAL−00041" />
+      <updated>1603892487081</updated>
+    </task>
+    <task id="LOCAL−00042" summary="Tatt bort kommentarer (latt noen få, relevante kommentarer stå)">
+      <created>1603894921126</created>
+      <option name="number" value="LOCAL−00042" />
+      <option name="presentableId" value="LOCAL−00042" />
+      <updated>1603894921126</updated>
+    </task>
+    <task id="LOCAL−00043" summary="Prøvde å opprette ny bundle for å få bort error om UTF-8">
+      <created>1603895444815</created>
+      <option name="number" value="LOCAL−00043" />
+      <option name="presentableId" value="LOCAL−00043" />
+      <updated>1603895444815</updated>
+    </task>
+    <task id="LOCAL−00044" summary="Prøvde å opprette ny bundle for å få bort error om UTF-8">
+      <created>1603895476398</created>
+      <option name="number" value="LOCAL−00044" />
+      <option name="presentableId" value="LOCAL−00044" />
+      <updated>1603895476398</updated>
+    </task>
+    <task id="LOCAL−00045" summary="0 warnings på siste commit">
+      <created>1603895510524</created>
+      <option name="number" value="LOCAL−00045" />
+      <option name="presentableId" value="LOCAL−00045" />
+      <updated>1603895510524</updated>
+    </task>
+    <task id="LOCAL−00046" summary="Siste commmit før innlevering. La tilbake noen av kommentarene da jeg så at man kunne levere inn oppgaven med kommentarer (for ordens skyld). Hadde lagret en kopi av oppgaven min med alle mine gamle kommentarer (for egen læring).">
+      <created>1603897864474</created>
+      <option name="number" value="LOCAL−00046" />
+      <option name="presentableId" value="LOCAL−00046" />
+      <updated>1603897864474</updated>
+    </task>
+    <task id="LOCAL−00047" summary="Opprettet ny bundle til slutt">
+      <created>1603898192193</created>
+      <option name="number" value="LOCAL−00047" />
+      <option name="presentableId" value="LOCAL−00047" />
+      <updated>1603898192193</updated>
+    </task>
+    <task id="LOCAL−00048" summary="Opprettet ny bundle til slutt">
+      <created>1603898418456</created>
+      <option name="number" value="LOCAL−00048" />
+      <option name="presentableId" value="LOCAL−00048" />
+      <updated>1603898418456</updated>
+    </task>
+    <task id="LOCAL−00049" summary="Error-melding">
+      <created>1603898480163</created>
+      <option name="number" value="LOCAL−00049" />
+      <option name="presentableId" value="LOCAL−00049" />
+      <updated>1603898480163</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Satt opp oppgave 5 - tekstbeskrivelse" />
+    <MESSAGE value="Oppdatert READ-me-filen med beskrivelse av hvordan jeg har løst de siste oppgavene hittil løst" />
+    <MESSAGE value="Satt inn oppgavebeskrivelse på oppgave 5 - der jeg skal gjøre et binært tre om til et array, også bruke et array til å lage et binært tre - begge i nivåorden. Må se mer på kompendiet 5.1.6: traverseringer og 4.2/ 4.3: køer og deque" />
+    <MESSAGE value="Prøvde å ta utgangspunkt i nullstill-metoden fra oblig2, men kom på at metoden skulle traversere rekursivt eller iterativt. Måtte derfor tenke at vi skulle starte nederst (nederste nivå) i treet og nulle det ut oppover. Slik at vi har gått igjennom absolutt alle nodene og nullet det ut. Dette må da gjøres postorden - siden den første noden i postorden er noden på dypeste nivå. &#10;&#10;Men når jeg prøvde å kjøre EksamensTesten nå, kjører oppgave 6 i evig (måtte stoppe den). Så noe er feil med metoden min." />
+    <MESSAGE value="Prøvde å lage nullstill-metoden slik som 5.1.7 (8) fra kompendiet, bare at jeg prøvde å implementere alt i den ene nullstill-metoden, i stedet for to ulike nullstill-metoder (der den ene tok inn p). Får fremdeles OutOfMemoryError på Eksamenstest 6" />
+    <MESSAGE value="Kodet oppgave 5: laget en liste kalt kø (sett på kompendiet 5.1.6 d) for å traversere treet i nivå orden. I deserialize-metoden laget jeg et tomt tre for så å sette inn (med leggInn-metoden) en og en verdi i treet i nivå orden. Testen får gul, så ikke alle testene er bestått. Må fikse på dette. Og nullstill-metoden er fremdeles feil." />
+    <MESSAGE value="Opdatert README-filen på oppgave 5 (1, 2, 3, 4, 5  skal nå være OK). Men fremdeles feilmelding på oppgave 6. Testen er nå helt rød.." />
+    <MESSAGE value="Får fremdeles feil på oppgave 6, men finner ikke ut av feilen" />
+    <MESSAGE value="Satte q-referansen (på tilfelle 1 og 2) til å være forelderen til b (som er barnet). Men testen er fremdeles rød. Det må være noe feil i nullstill- eller fjernAlle-metoden eller begge" />
+    <MESSAGE value="Prøvde å endre på nullstill-metoden for å ikke få rød kjøring på oppgave 6. Nå får jeg gul kjøring der to av testene feiler. Jeg flyttet det rekursive kallet til nullstill-metoden inn i if-ene og endret pekerene litt, men fremdeles noe som ikke er riktig. Usikker på om det kan ligge i nullstill-metoden eller om det er en følgefeil fra en av fjern-metodene" />
+    <MESSAGE value="Gjorde om nullstill-metoden til slik jeg hadde prøvd først (fra kompendiet 5.1.7 oppgave 8) - der jeg lagde to nullstill-metoder; en public som kaller på den private og nuller ut rot og setter antall til 0, og en privat metode som nuller ut pekere og verdier. Da forsvant feilen 6v, men har fremdeles en feil på testen igjen. Må være feil på fjern-metoden tror jeg." />
+    <MESSAGE value="Gikk igjennom fjern-metoden steg for steg og fant ut at det eneste jeg manglet for å få riktig på testen var å sette riktig peker på b sin forelder hvis denne finnes. Nå skal oppgave6 sin test også være grønn." />
+    <MESSAGE value="Endret oppgavebeskrivelser i README-filen." />
+    <MESSAGE value="Stod jeg manglet 1 commit i terminal, så jeg commiter det jeg selv har testet i en main-metode jeg har opprettet. Kun for egen testing." />
+    <MESSAGE value="Stod jeg manglet 1 commit i terminal da jeg skulle sjekke bundle, så jeg commiter det jeg selv har testet i en main-metode jeg har opprettet. Kun for egen testing. Får to warnings på main, men kan se bort i fra disse da main kun er for å opprette egne tester på metodene" />
+    <MESSAGE value="Opppdaterte README-filen da jeg leste på discussion på canvas at oppgavebeskrivelse av metodene vi har kunnet kopiere fra kompendiet (leggInn og fjern) måtte også utfylles. La oss ved noen merknader jeg har jobbet ut i fra." />
+    <MESSAGE value="Sjekket antall commits gjort: 39 commits" />
+    <MESSAGE value="Siste commit før innlevering!" />
+    <MESSAGE value="Opprettet ny git bundle og dobbeltsjekket at det skal stemme" />
+    <MESSAGE value="Tatt bort kommentarer (latt noen få, relevante kommentarer stå)" />
+    <MESSAGE value="Prøvde å opprette ny bundle for å få bort error om UTF-8" />
+    <MESSAGE value="0 warnings på siste commit" />
+    <MESSAGE value="Siste commmit før innlevering. La tilbake noen av kommentarene da jeg så at man kunne levere inn oppgaven med kommentarer (for ordens skyld). Hadde lagret en kopi av oppgaven min med alle mine gamle kommentarer (for egen læring)." />
+    <MESSAGE value="Opprettet ny bundle til slutt" />
+    <MESSAGE value="Error-melding" />
+    <option name="LAST_COMMIT_MESSAGE" value="Error-melding" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="334" y="86" key="#Inspections" timestamp="1603895209806">
+      <screen x="0" y="23" width="1440" height="793" />
+    </state>
+    <state x="334" y="86" key="#Inspections/0.23.1440.793@0.23.1440.793" timestamp="1603895209806" />
+    <state x="627" y="86" width="813" height="666" key="#Project_Structure" timestamp="1603196775661">
+      <screen x="0" y="23" width="1440" height="793" />
+    </state>
+    <state x="627" y="86" width="813" height="666" key="#Project_Structure/0.23.1440.793@0.23.1440.793" timestamp="1603196775661" />
+    <state x="369" y="83" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603193857294">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state x="369" y="83" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.805@0.23.1440.805" timestamp="1603193857294" />
+    <state x="692" y="123" width="616" height="593" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1603872916824">
+      <screen x="0" y="23" width="1440" height="793" />
+    </state>
+    <state x="692" y="123" width="616" height="593" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1440.793@0.23.1440.793" timestamp="1603872916824" />
+    <state x="701" y="229" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603887830248">
+      <screen x="0" y="23" width="1440" height="793" />
+    </state>
+    <state x="701" y="229" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.793@0.23.1440.793" timestamp="1603887830248" />
+    <state x="707" y="284" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1603891211050">
+      <screen x="0" y="23" width="1440" height="793" />
+    </state>
+    <state x="707" y="284" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1440.793@0.23.1440.793" timestamp="1603891211050" />
+    <state x="531" y="23" width="851" height="786" key="CommitChangelistDialog2" timestamp="1603898480080">
+      <screen x="0" y="23" width="1440" height="793" />
+    </state>
+    <state x="531" y="23" width="851" height="786" key="CommitChangelistDialog2/0.23.1440.793@0.23.1440.793" timestamp="1603898480080" />
+    <state x="0" y="23" key="CommitChangelistDialog2/0.23.1440.797@0.23.1440.797" timestamp="1603895914493" />
+    <state x="288" y="88" key="DiffContextDialog" timestamp="1603891715921">
+      <screen x="0" y="23" width="1440" height="793" />
+    </state>
+    <state x="288" y="88" key="DiffContextDialog/0.23.1440.793@0.23.1440.793" timestamp="1603891715921" />
+    <state x="811" y="328" key="Github.ShareDialog" timestamp="1610100874349">
+      <screen x="0" y="25" width="1440" height="798" />
+    </state>
+    <state x="811" y="324" key="Github.ShareDialog/0.23.1440.793@0.23.1440.793" timestamp="1603196410570" />
+    <state x="811" y="328" key="Github.ShareDialog/0.25.1440.798@0.25.1440.798" timestamp="1610100874349" />
+    <state x="245" y="133" key="Github.UntrackedFilesDialog" timestamp="1610100806308">
+      <screen x="0" y="25" width="1440" height="798" />
+    </state>
+    <state x="245" y="133" key="Github.UntrackedFilesDialog/0.25.1440.798@0.25.1440.798" timestamp="1610100806308" />
+    <state width="870" height="360" key="GridCell.Tab.0.bottom" timestamp="1603958172744">
+      <screen x="0" y="23" width="1440" height="793" />
+    </state>
+    <state width="870" height="360" key="GridCell.Tab.0.bottom/0.23.1440.793@0.23.1440.793" timestamp="1603958172744" />
+    <state width="882" height="222" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1603444506554" />
+    <state width="870" height="360" key="GridCell.Tab.0.center" timestamp="1603958172743">
+      <screen x="0" y="23" width="1440" height="793" />
+    </state>
+    <state width="870" height="360" key="GridCell.Tab.0.center/0.23.1440.793@0.23.1440.793" timestamp="1603958172743" />
+    <state width="882" height="222" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1603444506554" />
+    <state width="870" height="360" key="GridCell.Tab.0.left" timestamp="1603958172743">
+      <screen x="0" y="23" width="1440" height="793" />
+    </state>
+    <state width="870" height="360" key="GridCell.Tab.0.left/0.23.1440.793@0.23.1440.793" timestamp="1603958172743" />
+    <state width="882" height="222" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1603444506553" />
+    <state width="870" height="360" key="GridCell.Tab.0.right" timestamp="1603958172744">
+      <screen x="0" y="23" width="1440" height="793" />
+    </state>
+    <state width="870" height="360" key="GridCell.Tab.0.right/0.23.1440.793@0.23.1440.793" timestamp="1603958172744" />
+    <state width="882" height="222" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1603444506554" />
+    <state width="882" height="222" key="GridCell.Tab.1.bottom" timestamp="1603447618411">
+      <screen x="0" y="23" width="1440" height="793" />
+    </state>
+    <state width="882" height="222" key="GridCell.Tab.1.bottom/0.23.1440.793@0.23.1440.793" timestamp="1603447618411" />
+    <state width="882" height="222" key="GridCell.Tab.1.bottom/0.23.1440.797@0.23.1440.797" timestamp="1603444506643" />
+    <state width="882" height="222" key="GridCell.Tab.1.center" timestamp="1603447618410">
+      <screen x="0" y="23" width="1440" height="793" />
+    </state>
+    <state width="882" height="222" key="GridCell.Tab.1.center/0.23.1440.793@0.23.1440.793" timestamp="1603447618410" />
+    <state width="882" height="222" key="GridCell.Tab.1.center/0.23.1440.797@0.23.1440.797" timestamp="1603444506642" />
+    <state width="882" height="222" key="GridCell.Tab.1.left" timestamp="1603447618410">
+      <screen x="0" y="23" width="1440" height="793" />
+    </state>
+    <state width="882" height="222" key="GridCell.Tab.1.left/0.23.1440.793@0.23.1440.793" timestamp="1603447618410" />
+    <state width="882" height="222" key="GridCell.Tab.1.left/0.23.1440.797@0.23.1440.797" timestamp="1603444506642" />
+    <state width="882" height="222" key="GridCell.Tab.1.right" timestamp="1603447618411">
+      <screen x="0" y="23" width="1440" height="793" />
+    </state>
+    <state width="882" height="222" key="GridCell.Tab.1.right/0.23.1440.793@0.23.1440.793" timestamp="1603447618411" />
+    <state width="882" height="222" key="GridCell.Tab.1.right/0.23.1440.797@0.23.1440.797" timestamp="1603444506642" />
+    <state x="640" y="161" key="Vcs.Push.Dialog.v2" timestamp="1603898481725">
+      <screen x="0" y="23" width="1440" height="793" />
+    </state>
+    <state x="640" y="161" key="Vcs.Push.Dialog.v2/0.23.1440.793@0.23.1440.793" timestamp="1603898481725" />
+    <state x="640" y="162" key="Vcs.Push.Dialog.v2/0.23.1440.797@0.23.1440.797" timestamp="1603892488995" />
+    <state x="624" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1603705240077">
+      <screen x="0" y="23" width="1440" height="793" />
+    </state>
+    <state x="624" y="254" key="com.intellij.ide.util.TipDialog/0.23.1440.793@0.23.1440.793" timestamp="1603705240077" />
+    <state x="674" y="323" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1603193829644">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state x="674" y="323" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.1440.805@0.23.1440.805" timestamp="1603193829644" />
+    <state x="769" y="45" key="refactoring.ChangeSignatureDialog" timestamp="1603372255870">
+      <screen x="0" y="23" width="1440" height="793" />
+    </state>
+    <state x="769" y="45" key="refactoring.ChangeSignatureDialog/0.23.1440.793@0.23.1440.793" timestamp="1603372255870" />
+    <state x="689" y="140" width="670" height="676" key="search.everywhere.popup" timestamp="1603895754661">
+      <screen x="0" y="23" width="1440" height="793" />
+    </state>
+    <state x="689" y="140" width="670" height="676" key="search.everywhere.popup/0.23.1440.793@0.23.1440.793" timestamp="1603895754661" />
+  </component>
+</project>
